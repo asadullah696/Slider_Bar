@@ -1,0 +1,9 @@
+div#banner{
+    display: flex;
+    position: absolute;
+    top: calc(5vh);
+    left: calc(20vw);
+    height: calc(55vh);
+    width: calc(60vw);
+    background-color: aquamarine;
+}
